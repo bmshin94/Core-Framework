@@ -1,3 +1,24 @@
+# Core Framework (CoreBunch/Core-Framework)
+
+## 프로젝트 개요
+색상, 폰트, 여백 등 디자인 규칙(토큰)을 시각적인 화면에서 만들면 웹사이트 전반에 일괄 반영되는 "비주얼 디자인 시스템 빌더"
+코드를 일일이 수정하지 않고도 일관된 브랜드 아이덴티티와 스타일 가이드를 프론트엔드 전반에 통일감 있게 유지
+디자이너와 프론트엔드 개발자가 서로 다른 용어로 씨름하지 않고 단 하나의 디자인 시스템 안에서 완벽히 협업
+
+## 핵심 특징 & 추천 분야
+- 비주얼디자인시스템
+- 디자인토큰빌더
+- 일관된스타일관리
+- 프론트엔드표준화
+- 웹디자인자동화
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
